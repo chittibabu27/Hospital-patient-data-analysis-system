@@ -57,13 +57,13 @@ Follow these steps to install and run the MediTrack application locally.
 Clone the project repository using Git:
 
 ```bash
-git clone https://github.com/Vaishnavi-161/Hospital-patient-data-analysis-system.git
+git clone https://github.com/chittibabu27/Hospital-patient-data-analysis-system.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd MediTrack
+cd Hospital-patient-data-analysis-system
 ```
 
 ### 2. Create a Virtual Environment
@@ -134,14 +134,14 @@ The MediTrack application is now ready to use.
 
 ## My Contributions
 
-**Ipparla Vaishnavi – JavaScript, Integration & Testing**
+**Mandhalapu Giridhar Naidu – Data Analysis & Visualization**
 
-- Developed JavaScript functionality for interactive elements.
-- Integrated frontend components with backend functionality.
-- Performed application testing to verify the functionality of different modules.
-- Identified issues, assisted in debugging, and checked whether fixes worked correctly.
-- Contributed to GitHub repository management and overall project coordination.
-- Helped ensure smooth interaction between different modules of the application.
+- Performed data analysis using Pandas and NumPy.
+- Implemented data processing and statistical operations.
+- Developed data visualizations and charts using Matplotlib.
+- Worked on demographic analysis of patient records.
+- Analyzed hospital visit trends and departmental workloads.
+- Generated meaningful insights and summaries from patient visit data.
 
 ## Future Scope
 
